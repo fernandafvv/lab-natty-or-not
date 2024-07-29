@@ -13,7 +13,7 @@ Vídeo: Vidnoz AI
 Partindo de uma ideia inicial, utilizei o ChatGPT para criar um roteiro de vídeo com dicas rápidas para pessoas em transição de carreira. Em seguida, usei o site Vidnoz AI para montar os layouts e produzir o vídeo, resultando em um material final coeso e informativo.
 
 ## 🚀 Resultados
-Para acessar o video acesse o link https://github.com/fernandafvv/lab-natty-or-not/blob/main/Desafio%20DIO.mp4
+Para acessar o video acesse o link https://github.dev/fernandafvv/lab-natty-or-not/blob/10ef79dac727f28a6df079af3ecc78177d354cc2/Desafio%20DIO.mp4
 
 ## 💭 Reflexão (Opcional)
 
